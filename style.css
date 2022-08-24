@@ -1,0 +1,58 @@
+body {
+  background-color: #FFE9C8;
+  padding:15%;
+  border:2px solid #743200;
+  border-radius: 15px;
+}
+
+.header {
+  border: 2px solid #743200;
+  border-radius: 15px;
+  padding-left: 10px;
+  background-color: #FFF3E1;
+}
+
+.profile {
+  background-color: #FFF3E1;
+  border-left: 2px solid #743200;
+  border-right: 2px solid #743200;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.title {
+  text-align: center;
+  border: 2px solid #743200;
+  border-radius: 15px;
+  background-color: #FFF3E1;
+}
+
+.programs {
+  background-color: #FFF3E1;
+  border-left: 2px solid #743200;
+  border-right: 2px solid #743200;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 15px;
+}
+
+img {
+  width:15px;
+}
+
+.work {
+  background-color: #FFF3E1;
+  border-left: 2px solid #743200;
+  border-right: 2px solid #743200;
+  padding-left: 5px;
+  padding-right: 25px;
+  margin-top: 15px;
+}
+
+.degrees {
+  background-color: #FFF3E1;
+  border-left: 2px solid #743200;
+  border-right: 2px solid #743200;
+  padding-left: 5px;
+  margin-top: 15px;
+}
